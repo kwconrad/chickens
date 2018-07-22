@@ -2,6 +2,7 @@ body,
 html {
 	margin: 0;
 	font-size: 14px;
+	background: #2F1D0F;
 }
 
 @media all and (max-width:767px) {
